@@ -153,8 +153,12 @@ void test_getters()
 
 void start_tests() 
 {
-	//test_operators();
-	//test_thousand_elements();
+	test_operators();
+	std::cout << std::endl;
+	
+	test_thousand_elements();
+	std::cout << std::endl;
+	
 	test_insert_elements();
 	test_pop_back();
 	test_resize();
