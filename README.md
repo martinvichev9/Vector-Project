@@ -1,3 +1,3 @@
 # Vector-Project
 
-An C++ implementation of the std vector
+A C++ implementation of the **std::vector**
